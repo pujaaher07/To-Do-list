@@ -1,6 +1,5 @@
 
-<!DOCTYPE html>
-<html>
+<Doctype html>
 <head>
     <title>To-Do List</title>
 
